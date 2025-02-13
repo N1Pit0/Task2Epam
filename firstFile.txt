@@ -2,8 +2,8 @@
 2 for git_1
 3 for git_1 v1
 4 for git_1 v1
-5
-6
+5 changed for step 18
+6 changed for step 18
 7
 8
 9
